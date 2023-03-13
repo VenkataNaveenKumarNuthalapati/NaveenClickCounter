@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.card-container {
+  text-align: center;
+  width: 100%;
+}
+span {
+  color: #c20a72;
+}
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
